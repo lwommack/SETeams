@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [Lindsay Wommack](https://github.com/lwommack) 
